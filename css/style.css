@@ -1,0 +1,62 @@
+.p_100 {
+    margin-bottom: 100px;
+}
+.f_h1 a{
+    text-decoration: none;
+    color: #C1D289;
+    padding:0  20px ;
+}
+
+.pr_count{
+    padding: 150px 0;
+}
+.pr_h1{
+    margin-bottom: 20px;
+}
+.p_count{
+    height: 150px;
+    background-color: pink;
+}
+.count_slowly{
+    background-color: pink;
+}
+.items {
+    
+    height: 200px;
+    background-color: aliceblue;
+}
+.items p {
+    font-size: 30px;
+    align-items: center;
+}
+.animate_js{
+    height: 100px;
+    background-color: bisque;
+}
+.animate_js p {
+    text-align: center;
+}
+.ani_img {
+    width: 80%;
+}
+.text{
+    font-size: 20px;
+    background-color: red;
+}
+/* page3 */
+.paraP{
+    font-size: 30px;
+    align-items: center;
+    text-align: center;
+}
+
+.parallax-window{
+    min-height: 700px;
+    background: transparent;
+}
+/* page4 */
+
+.item{
+    display: inline-block;
+}
+/* page5 */
